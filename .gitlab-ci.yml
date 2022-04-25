@@ -18,7 +18,7 @@
 #   - test
 #   - deploy
 
-# image: docker:stable
+image: docker:stable
 
 # variables:
 #   IMAGE_NAME: "alpine_python:1.1.0"
