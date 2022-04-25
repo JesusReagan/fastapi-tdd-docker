@@ -20,8 +20,8 @@
 
 image: docker:stable
 
-variables:
-  IMAGE_NAME: "alpine_python:1.1.0"
+# variables:
+#   IMAGE_NAME: "alpine_python:1.1.0"
 
 services:
   - docker:19.03.12-dind
