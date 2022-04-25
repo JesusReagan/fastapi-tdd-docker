@@ -23,8 +23,8 @@ image: docker:stable
 # variables:
 #   IMAGE_NAME: "alpine_python:1.1.0"
 
-services:
-  - docker:19.03.12-dind
+# services:
+#   - docker:19.03.12-dind
 
 
 build-job:       # This job runs in the build stage, which runs first.
